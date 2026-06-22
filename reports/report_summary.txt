@@ -1,0 +1,30 @@
+REPORT SUMMARY
+====================
+
+Average overall score: 4.69 / 5
+
+Average score by dimension:
+- accuracy: 5.00
+- clarity: 5.00
+- risk_control: 4.64
+- helpfulness: 4.57
+- actionability: 4.21
+
+Overall score by category:
+- ai_learning: 5.00
+- programming: 5.00
+- ai_evaluation: 4.80
+- career_planning: 4.80
+- data_science: 4.60
+- phd_planning: 4.50
+- machine_learning: 4.40
+- statistics: 4.40
+
+Risk control by expected risk:
+- high: 4.75
+- medium: 4.67
+- low: 4.50
+
+Error type distribution:
+- none: 11
+- missing_steps: 3
