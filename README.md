@@ -1,3 +1,11 @@
+## Live Demo
+
+[Open the Streamlit Dashboard](https://ai-study-advice-evaluation.streamlit.app/)
+
+## Disclaimer
+
+This project uses simulated student questions and simulated GPT-style answers. It is intended as a small MVP demonstration of an AI evaluation workflow, not a production-level evaluation system.
+
 # AI Study Advice Assistant Evaluation
 
 This project evaluates a simulated AI study advice assistant using a human-centered data science workflow.
